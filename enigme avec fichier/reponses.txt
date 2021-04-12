@@ -1,0 +1,9 @@
+ax+bx+c
+ax2+bx+cx
+ax2+bx
+oxygen
+iron
+sodium
+water
+alumin
+copper

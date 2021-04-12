@@ -1,0 +1,3 @@
+ax2+bx+c
+water
+aluminum
